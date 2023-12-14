@@ -1,6 +1,6 @@
 # hittade
 
-A command line tool to find and gather system information. This tools submits the information to the corresponding web application.
+A command line tool to find and gather system information. This tools submits the information to the corresponding web application. It uses [syft](https://github.com/anchore/syft) inside to generate the actual SBOM files.
 
 
 ## Setup for development
